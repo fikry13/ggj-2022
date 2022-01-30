@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class DoorAnimated : MonoBehaviour, IDoor
 {
-
     private Animator animator;
     private bool isOpen = false;
 
